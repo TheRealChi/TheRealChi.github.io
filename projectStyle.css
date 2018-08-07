@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+<title> BEST WEBSITE EVER </title> 
+    <link rel="stylesheet" href="indexStyle.css">
+    
+    <style>
+        body{background-image: url("https://media.giphy.com/media/l4FGq4KafpecesAZG/giphy.gif");background-size:cover}
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="about.html">about</a>
+        <a href="resume.html">Resume</a>
+        <a href="projects.html">Projects</a>
+        <a href="contract.html">Contact</a>
+        <a href="index.html">index</a>
+    </nav>
+
+</body>
+</html>

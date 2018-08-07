@@ -1,0 +1,46 @@
+#bigparagraph{font-size:"500";height:600;padding:color:black}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+.crumb {
+    display: inline-block;
+}
+.crumb a:after{
+    display: inline-block;
+    color: white;
+    content:'>';
+    font-size:80%;
+    font-wieght: bold;
+    padding: 0 3px 
+}
+body{text-align: center;colordimgrey;background-color: white}
+p,body{
+    color:whitesmoke;
+    font-family:sans-serif;
+}
+
+body{
+    text-align: center;
+    font-size: 18;
+}
+#we{
+    width: 526px; 
+ 
+}
+#re{
+    box-sizing: border-box;
+    font-size: 15px;
+    color: white;
+    text-align:center;    
+}
+#wa{
+    box-sizing: border-box;
+    font-size: 15px;
+    color: white;
+    text-align:center;
+}
+#er{
+    font-size: 29px;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Chi Zama </title>
+    <link rel="stylesheet" href="indexStyle.css">
+    <style>
+body {background-image:url("https://media.giphy.com/media/q5hVhkKwKHDuo/giphy")}
+
+</style>
+</head>
+
+<body>
+Hi my name is Chi 
+<p>I play basketball</p>
+<p>I play videogames</p>
+<p>I like cookies</p>
+    <Nav>
+        <a href="about.html">about</a>
+        
+    </Nav>
+    <img src="https://s3.amazonaws.com/tinycards/image/0c771449acaecb388c58d8805d966f61"/>
+     
+</body>
+</html>
